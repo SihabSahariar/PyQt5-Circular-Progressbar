@@ -7,7 +7,7 @@ Information:
 - Framework: PyQt5
 - Library: PyQt5,PySide2extn
 
-Information:
+Library Install:
 ------------
 - pip install pyqt5
 - pip install PySide2extn
