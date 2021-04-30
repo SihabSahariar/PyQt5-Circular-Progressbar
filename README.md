@@ -9,8 +9,8 @@ Information:
 
 Information:
 ------------
-pip install pyqt5
-pip install PySide2extn
+- pip install pyqt5
+- pip install PySide2extn
 
 Screenshot
 ---------------
